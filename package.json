@@ -1,0 +1,12 @@
+{
+  "name": "droppit",
+  "version": "1.0.0",
+  "description": "A place to drop code snippets.",
+  "main": "index.js",
+  "author": "Neha Vekaria",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "ipfs": "^0.39.0"
+  }
+}
